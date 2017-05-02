@@ -20,5 +20,7 @@ public class Egresado {
     }
     public void solicitar(){
         System.out.println("solicitar_documentos");
+        System.out.println("solicitar_documentos2");
+        
     }
 }
