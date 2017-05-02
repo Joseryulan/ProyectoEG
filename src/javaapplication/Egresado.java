@@ -18,5 +18,7 @@ public class Egresado {
     public String getIdEgresado(){
         return idEgresado;
     }
-    public void solicitar(){}
+    public void solicitar(){
+        System.out.println("solicitar_documentos");
+    }
 }
